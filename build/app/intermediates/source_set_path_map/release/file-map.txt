@@ -1,0 +1,15 @@
+com.techwaji.firebase_cli.app-jetified-play-services-basement-18.1.0-0 C:\Users\Axix Technologies\.gradle\caches\transforms-3\39ca9356d761116ec52f23a7e32fda3e\transformed\jetified-play-services-basement-18.1.0\res
+com.techwaji.firebase_cli.app-jetified-window-java-1.0.0-beta04-1 C:\Users\Axix Technologies\.gradle\caches\transforms-3\45c981e2e10984af64ca5261af680bef\transformed\jetified-window-java-1.0.0-beta04\res
+com.techwaji.firebase_cli.app-jetified-annotation-experimental-1.1.0-2 C:\Users\Axix Technologies\.gradle\caches\transforms-3\5a5e94e7e4ebf585e578536a1cce7427\transformed\jetified-annotation-experimental-1.1.0\res
+com.techwaji.firebase_cli.app-jetified-window-1.0.0-beta04-3 C:\Users\Axix Technologies\.gradle\caches\transforms-3\6e33ec201b20d4e67a2d9f57994a0274\transformed\jetified-window-1.0.0-beta04\res
+com.techwaji.firebase_cli.app-jetified-firebase-common-20.4.2-4 C:\Users\Axix Technologies\.gradle\caches\transforms-3\8717cd3dd5a32cd748213269af2e4141\transformed\jetified-firebase-common-20.4.2\res
+com.techwaji.firebase_cli.app-core-1.6.0-5 C:\Users\Axix Technologies\.gradle\caches\transforms-3\a35d98807e22df87721670387d7cec18\transformed\core-1.6.0\res
+com.techwaji.firebase_cli.app-main-6 C:\Users\Axix Technologies\Desktop\Flutter Apps\firebase_cli\android\app\src\main\res
+com.techwaji.firebase_cli.app-release-7 C:\Users\Axix Technologies\Desktop\Flutter Apps\firebase_cli\android\app\src\release\res
+com.techwaji.firebase_cli.app-pngs-8 C:\Users\Axix Technologies\Desktop\Flutter Apps\firebase_cli\build\app\generated\res\pngs\release
+com.techwaji.firebase_cli.app-resValues-9 C:\Users\Axix Technologies\Desktop\Flutter Apps\firebase_cli\build\app\generated\res\resValues\release
+com.techwaji.firebase_cli.app-rs-10 C:\Users\Axix Technologies\Desktop\Flutter Apps\firebase_cli\build\app\generated\res\rs\release
+com.techwaji.firebase_cli.app-mergeReleaseResources-11 C:\Users\Axix Technologies\Desktop\Flutter Apps\firebase_cli\build\app\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.techwaji.firebase_cli.app-mergeReleaseResources-12 C:\Users\Axix Technologies\Desktop\Flutter Apps\firebase_cli\build\app\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.techwaji.firebase_cli.app-merged_res-13 C:\Users\Axix Technologies\Desktop\Flutter Apps\firebase_cli\build\app\intermediates\merged_res\release
+com.techwaji.firebase_cli.app-packaged_res-14 C:\Users\Axix Technologies\Desktop\Flutter Apps\firebase_cli\build\firebase_core\intermediates\packaged_res\release

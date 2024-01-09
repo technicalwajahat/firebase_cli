@@ -1,0 +1,4 @@
+#Sat Jan 06 15:22:30 PKT 2024
+base.0=C\:\\Users\\Axix Technologies\\Desktop\\Flutter Apps\\firebase_cli\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

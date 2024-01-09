@@ -1,0 +1,14 @@
+io.flutter.plugins.firebase.core.firebase_core-jetified-play-services-basement-18.1.0-0 C:\Users\Axix Technologies\.gradle\caches\transforms-3\39ca9356d761116ec52f23a7e32fda3e\transformed\jetified-play-services-basement-18.1.0\res
+io.flutter.plugins.firebase.core.firebase_core-jetified-window-java-1.0.0-beta04-1 C:\Users\Axix Technologies\.gradle\caches\transforms-3\45c981e2e10984af64ca5261af680bef\transformed\jetified-window-java-1.0.0-beta04\res
+io.flutter.plugins.firebase.core.firebase_core-jetified-annotation-experimental-1.1.0-2 C:\Users\Axix Technologies\.gradle\caches\transforms-3\5a5e94e7e4ebf585e578536a1cce7427\transformed\jetified-annotation-experimental-1.1.0\res
+io.flutter.plugins.firebase.core.firebase_core-jetified-window-1.0.0-beta04-3 C:\Users\Axix Technologies\.gradle\caches\transforms-3\6e33ec201b20d4e67a2d9f57994a0274\transformed\jetified-window-1.0.0-beta04\res
+io.flutter.plugins.firebase.core.firebase_core-jetified-firebase-common-20.4.2-4 C:\Users\Axix Technologies\.gradle\caches\transforms-3\8717cd3dd5a32cd748213269af2e4141\transformed\jetified-firebase-common-20.4.2\res
+io.flutter.plugins.firebase.core.firebase_core-core-1.6.0-5 C:\Users\Axix Technologies\.gradle\caches\transforms-3\a35d98807e22df87721670387d7cec18\transformed\core-1.6.0\res
+io.flutter.plugins.firebase.core.firebase_core-main-6 C:\Users\Axix Technologies\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_core-2.24.2\android\src\main\res
+io.flutter.plugins.firebase.core.firebase_core-release-7 C:\Users\Axix Technologies\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_core-2.24.2\android\src\release\res
+io.flutter.plugins.firebase.core.firebase_core-pngs-8 C:\Users\Axix Technologies\Desktop\Flutter Apps\firebase_cli\build\firebase_core\generated\res\pngs\release
+io.flutter.plugins.firebase.core.firebase_core-resValues-9 C:\Users\Axix Technologies\Desktop\Flutter Apps\firebase_cli\build\firebase_core\generated\res\resValues\release
+io.flutter.plugins.firebase.core.firebase_core-rs-10 C:\Users\Axix Technologies\Desktop\Flutter Apps\firebase_cli\build\firebase_core\generated\res\rs\release
+io.flutter.plugins.firebase.core.firebase_core-mergeReleaseResources-11 C:\Users\Axix Technologies\Desktop\Flutter Apps\firebase_cli\build\firebase_core\intermediates\incremental\release\mergeReleaseResources\merged.dir
+io.flutter.plugins.firebase.core.firebase_core-mergeReleaseResources-12 C:\Users\Axix Technologies\Desktop\Flutter Apps\firebase_cli\build\firebase_core\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+io.flutter.plugins.firebase.core.firebase_core-merged_res-13 C:\Users\Axix Technologies\Desktop\Flutter Apps\firebase_cli\build\firebase_core\intermediates\merged_res\release

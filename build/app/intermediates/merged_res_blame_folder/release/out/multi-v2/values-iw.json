@@ -1,0 +1,43 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.techwaji.firebase_cli.app-mergeReleaseResources-11:/values-iw/values-iw.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Axix Technologies\\.gradle\\caches\\transforms-3\\39ca9356d761116ec52f23a7e32fda3e\\transformed\\jetified-play-services-basement-18.1.0\\res\\values-iw\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "195",
+                        "endColumns": "113",
+                        "endOffsets": "308"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "117",
+                        "endOffsets": "168"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Axix Technologies\\.gradle\\caches\\transforms-3\\a35d98807e22df87721670387d7cec18\\transformed\\core-1.6.0\\res\\values-iw\\values-iw.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "173",
+                        "endColumns": "100",
+                        "endOffsets": "269"
+                    }
+                }
+            ]
+        }
+    ]
+}

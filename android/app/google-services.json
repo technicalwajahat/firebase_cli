@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1034073583808",
+    "project_id": "testingcli-51ca4",
+    "storage_bucket": "testingcli-51ca4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1034073583808:android:f390ca775f5e3dc2553d25",
+        "android_client_info": {
+          "package_name": "com.techwaji.firebase_cli"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhSjWBQcgbkOIT8KenvCBsJd_l-1YabWU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
